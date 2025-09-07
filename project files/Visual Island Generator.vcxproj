@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{a7ea41af-e61d-4ae4-9606-d1cd2051312f}</ProjectGuid>
-    <RootNamespace>RandomMapDecombobulator</RootNamespace>
+    <RootNamespace>Visual Island Generator</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Visual Island Generator</ProjectName>
   </PropertyGroup>
@@ -137,4 +137,5 @@
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
+
 </Project>
