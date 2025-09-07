@@ -1,5 +1,5 @@
 #pragma once
-#include "random"
+#include <random>
 #include <iostream>
 #include <iomanip>
 #include <windows.h>  
@@ -23,7 +23,6 @@ public:
 	// simple function that fills a matrix wnadomly with 1 and 0. 
 	void fill()
 	{
-		srand(time(nullptr));
 		for (int i = 0; i < sizeY; i++)
 		{
 			vector<int> row;

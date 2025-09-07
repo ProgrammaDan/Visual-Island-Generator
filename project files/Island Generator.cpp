@@ -23,6 +23,8 @@ using namespace general;
 // driver code 
 int main() 
 {
+	// seed random function once to start with
+	srand(static_cast<unsigned>(std::time(nullptr)));
 
 	// default parameters
 	int x = 25 ;
