@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Random Map Decombobulator", "Random Map Decombobulator\Random Map Decombobulator.vcxproj", "{A7EA41AF-E61D-4AE4-9606-D1CD2051312F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Visual Island Generator", "Visual Island Generator\Visual Island Generator.vcxproj", "{A7EA41AF-E61D-4AE4-9606-D1CD2051312F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,3 +29,4 @@ Global
 		SolutionGuid = {C3F3A97F-D579-4D97-9826-0FEB659C5160}
 	EndGlobalSection
 EndGlobal
+
